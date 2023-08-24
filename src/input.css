@@ -1,0 +1,7 @@
+@import url('https://db.onlinewebfonts.com/c/70f3e46b3bb904260d1b1a6e0f2edf08?family=HM+Sans+Regular');
+@import url('https://db.onlinewebfonts.com/c/4e6e57c2a88df92df489202798f556de?family=HM+Sans+Latin+Bold');
+@import url('https://db.onlinewebfonts.com/c/09c8fb44d2c62d99647e4ce58736293e?family=HM+Sans+Latin+Regular');
+@import url('https://db.onlinewebfonts.com/c/c352028deedbafe44d35574c0214fedf?family=HM+Sans+Latin+SemiBold');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
