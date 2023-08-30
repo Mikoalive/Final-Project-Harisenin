@@ -1,0 +1,9 @@
+.vscode/
+node_modules/
+src/
+dist/
+index.html
+package-lock.json
+package.json
+README.md
+tailwind.config.js
